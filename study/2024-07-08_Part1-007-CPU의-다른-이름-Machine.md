@@ -5,7 +5,7 @@
 - C언어는 OS 개발을 위해 태어났기 때문에 H/W 친화적이다.
 - CPU는 하드웨어 계층에 포함되며 Machine(기계이다.)
 - CPU 연산하는 명령어 코드를 Machine Code라고 한다.
-- Machine Code는 어셈블리코드로 변환된다.
+- Machine Code는 어셈블리코드로 변환할 수 있다.
 
 
 
